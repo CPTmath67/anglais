@@ -1,0 +1,58 @@
+#Docker presentation
+
+##TEAM MEEMBERS
+*	Florent Fillion
+*	Simon Fesnien
+*	Mathieu Kern
+
+##PROJECT NAME	
+
+
+	Deployement of interdepent services in a Docker infrastructurE YOU START:
+		
+##BEFORE YOU START
+		 
+
+• Why are you giving this talk?
+		 	
+To present our project, Docker and what we did during this period.
+
+• Who will you be talking to?
+
+We will be talking to IT friendly people
+
+• How much do they know about the subject already?
+					
+They know basics of some pricniples and tools we used and manipulate during our works on the project 
+How long have you got? (minutes/student)
+						
+At least five minutes per students 
+
+	
+
+
+##YOUR MAIN POINTS
+
+*	1.Introduction
+	*	Presentation of the team members 
+	*	Presentation of the project: description, goals, the main tools 
+
+*	2.Presentation of docker 
+	*	Whats is docker, how it works, what it  does ,...
+	*	How to use it, presentation of the administration cli tool
+
+*	3.What we did with it in our project
+	*	Presentation of our works(summary, graphs, )
+	*	What do each set up, why we did it
+	*	How we manage to get all the things working
+
+*	4. Tehcnical demonstration 
+	*	Briefly exposing Docker utilisation
+
+*	5. Conclusion 
+	*	summarize the main points of the presentation
+	*	Thank the listeners 
+	
+
+
+
